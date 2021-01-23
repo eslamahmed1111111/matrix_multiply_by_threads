@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1605640113 source:/home/eslam11/Desktop/codeblocks/matrixMultiply/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<pthread.h>
+	<sys/time.h>
+
